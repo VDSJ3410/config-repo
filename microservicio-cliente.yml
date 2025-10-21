@@ -1,5 +1,5 @@
-spring:
-application:
+spring: 
+application: 
 name: microservicio-cliente
 mensaje: "Hola desde el config-server"
 server: 
